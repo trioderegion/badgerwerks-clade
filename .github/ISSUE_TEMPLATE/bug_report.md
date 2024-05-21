@@ -6,6 +6,8 @@ labels: bug
 assignees: trioderegion
 
 ---
+**Which module is this report for?**
+E.g. Steinhardt's Guide to the Eldritch Hunt
 
 **Describe the bug**
 A clear and concise description of what the bug is.
