@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help improve a BadgerWerks product
 title: New Bug Report
 labels: bug
 assignees: trioderegion
